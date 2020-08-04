@@ -1,2 +1,2 @@
-# Terezpitykez.github.iu
+# Terezpitykez.github.io
 Demo page
